@@ -29,9 +29,9 @@ Jenis filter ini hanya menggunakan seorang customer saja dalam melakukan analisi
 Dalam kasus ini akan digunakan dataset yang berisi 10 judul film dari indonesia dan hollywood yang dilengkapi oleh feature genre, rating, dan duration. Dengan data set tersebut akan dicari hubungan/kesamaan paling erat diantara 10 film yang ada. Sehingga ketika seseorang sudah menonton suatu film, dapat diberikan rekomendasi untuk menonton film lainnya yang memiliki kesamaan.
 
 ## Hybrid Approach
+...
 
-
-# A/B Testing
+## A/B Testing
 Pada code ini akan dilakukan A/B Testing dengan metode Z_test dari data 38 pengunjung suatu website dari 11 Oktober sampai dengan 16 November.
 
 Analisis ini ditujukan untuk melihat bagaimana respon (perilaku) pengunjung website tampilan lama dibandingkan dengan website tampilan baru. Sehingga dapat memberikan rekomendasi:
