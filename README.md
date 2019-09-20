@@ -29,7 +29,11 @@ Jenis filter ini hanya menggunakan seorang customer saja dalam melakukan analisi
 Dalam kasus ini akan digunakan dataset yang berisi 10 judul film dari indonesia dan hollywood yang dilengkapi oleh feature genre, rating, dan duration. Dengan data set tersebut akan dicari hubungan/kesamaan paling erat diantara 10 film yang ada. Sehingga ketika seseorang sudah menonton suatu film, dapat diberikan rekomendasi untuk menonton film lainnya yang memiliki kesamaan.
 
 ## Hybrid Approach
-...
+Pada code ini akan dilakukan Hybrid Analysis dari data rating film yang diberikan oleh 24 customer pada sebuah bioskop.
+
+Analisis ini ditujukan untuk mengetahui bagaimana karakter dari masing-masing customer dan bank film yang dimiliki. Sehingga dengan Hybrid analysis ini dapat memberikan rekomendasi film yang sesuai dengan karakter dan selera film masing-masing customer.
+
+Terdapat dua dataset yang digunakan, yaitu data film beserta dengan jenis, gendre, rating, kode rating, dan durasinya. Dataset kedua adalah data 24 customer dengan rating yang diberikan oleh mereka untuk setiap film.
 
 ## A/B Testing
 Pada code ini akan dilakukan A/B Testing dengan metode Z_test dari data 38 pengunjung suatu website dari 11 Oktober sampai dengan 16 November.
